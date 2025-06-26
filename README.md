@@ -1,2 +1,1 @@
-# gadis
-gadis
+# [gadis](https://gadis.pages.dev)
